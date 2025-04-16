@@ -1,3 +1,3 @@
 <?php
-$koneksi = new mysqli("localhost", "root", "", "db_pemilu");
+$koneksi = new mysqli("localhost", "root", "", "db_survei");
 ?>
